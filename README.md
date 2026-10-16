@@ -38,8 +38,8 @@ pip install -r requirements.txt
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/<your-username>/webwarden.git
-cd webwarden
+git clone https://github.com/halimakhan77060-boop/HeaderHawk.git
+cd webWarden
 
 python -m venv venv
 venv\Scripts\Activate.ps1
