@@ -26,7 +26,7 @@ WebWarden maps a website, then checks security headers, cookie flags, informatio
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/<your-username>/webwarden.git
+git clone https://github.com/halimakhan77060-boop/WebWarden.git
 cd webwarden
 
 python3 -m venv venv
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/halimakhan77060-boop/HeaderHawk.git
+git clone https://github.com/halimakhan77060-boop/WebWarden.git
 cd webWarden
 
 python -m venv venv
