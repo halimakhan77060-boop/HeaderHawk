@@ -1,4 +1,4 @@
-# HeaderHawk
+# WebWarden
 
 **A lightweight, passive web security scanner that crawls a site and flags common misconfigurations.**
 
